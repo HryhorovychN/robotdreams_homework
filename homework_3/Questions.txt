@@ -1,0 +1,13 @@
+What is a good (reasonable) value for the amount parameter
+
+A reasonable value for the amount parameter is usually between 0.5 and 2.0.
+
+What happens if it is too small
+
+If the amount is too small (less than 0.5). There is not sensible because, the sharpening effect will be very weak and hard to see. 
+The image will look almost the same as the original.
+
+What happens if it is too large
+
+If the amount is too large (more than 2.0). It can cause problems (bright edges around objects, too much contrast, more visible noise). 
+The image might look too sharp.
