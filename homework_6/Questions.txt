@@ -1,0 +1,11 @@
+Questions
+
+Does it matter whether the picture has been taken by a 1Mpx camera or a 12Mpx camera? How?
+
+Yes, a higher resolution (12Mpx) provides more details and finer features, leading to more accurate corner detection but also potentially more noise.
+
+If we increased the resolution of the camera, what would you change in the current algorithm?
+
+Adjust the block size and gradient kernel size for the Harris detector.
+Scale down the image before processing for efficiency.
+Increase the threshold for corner detection to reduce noise.
