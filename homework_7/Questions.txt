@@ -1,0 +1,8 @@
+1. Why does the affine transform not work well in this case?
+Affine transform cannot handle perspective distortions effectively.'
+
+2. What can you tell me about the values you have obtained for the inliers vector? What does it mean?
+Inliers are points used in the transformation; 1 means included, 0 means excluded.
+
+3.How does the result from homography look? Does it work well enough?
+The homography result looks much better and corrects the perspective distortion effectively.
