@@ -1,0 +1,8 @@
+1. Looking at the computed histogram, could it be considered bimodal?
+Yes, it appears bimodal. 
+
+2. Looking at the computed histogram, what binarization threshold would you choose? Why?
+I would choose a threshold around 159 for optimal separation. 
+
+3. Looking at the resulting (thresholded) image, is the text binarization (detection) good?
+Yes, the text detection is clear. 
