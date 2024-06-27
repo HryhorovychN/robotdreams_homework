@@ -1,0 +1,6 @@
+CSRT:
+Performance: Slower
+Accuracy: Better at tracking objects when their appearance changes, such as a motorcycle landing on the road or when dust covers part of the motorcycle.
+KCF:
+Performance: Faster
+Accuracy: Less accurate as it lost tracking after the motorcycle landed and its shape changed, as well as when dust covered part of the motorcycle.
