@@ -1,0 +1,9 @@
+What is the overall accuracy of the classifier?
+The overall accuracy of the classifier is 73.5%.
+
+What modifications would you make to improve the classification accuracy?
+Increase model complexity (more layers, more filters).
+Add regularization (Dropout, Batch Normalization).
+Use data augmentation.
+Optimize hyperparameters.
+Use pre-trained models (transfer learning).
