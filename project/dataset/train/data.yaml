@@ -1,0 +1,8 @@
+train: C:\Users\user\Documents\GitHub\robotdreams_homework\project\dataset\train\train.txt
+val: C:\Users\user\Documents\GitHub\robotdreams_homework\project\dataset\train\train.txt
+nc: 4
+names:
+  - Light Switcher
+  - Power Outlet
+  - Network Outlet
+  - TV Socket

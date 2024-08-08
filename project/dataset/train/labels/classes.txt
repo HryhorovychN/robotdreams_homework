@@ -1,0 +1,4 @@
+Light Switcher
+Power Outlet
+Network Outlet
+TV Socket
